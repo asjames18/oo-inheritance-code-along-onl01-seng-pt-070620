@@ -8,4 +8,8 @@ class Car
 
   end
 
+  def go
+
+  end
+
 end
